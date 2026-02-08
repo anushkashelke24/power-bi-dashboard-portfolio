@@ -19,7 +19,7 @@ Interactive Power BI dashboard analyzing hotel performance and revenue metrics t
 📂 Folder: hospitality-revenue-analytics-dashboard
 
 ### Dashboard Preview
-![Dashboard Preview](hospitality-revenue-analytics-dashboard/Hospitality-Revenue-Dashboard/.png)
+![Dashboard Preview](hospitality-revenue-analytics-dashboard/Hospitality_Revenue_Dashboard.png)
 
 
 ### 2️⃣ HR Analytics Dashboard
