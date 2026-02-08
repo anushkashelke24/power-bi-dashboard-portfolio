@@ -5,20 +5,21 @@ This repository contains interactive Power BI dashboards focused on real-world b
 
 ## 📁 Projects
 
-### 1️⃣ Data Professional Survey Dashboard
+### 1️⃣ Hospitality Revenue Analytics Dashboard
 
-Analyzes global survey data of data professionals with insights on:
-
-- Salary trends by job role  
-- Programming language popularity  
-- Work-life balance & job satisfaction  
+Interactive Power BI dashboard analyzing hotel performance and revenue metrics to support data-driven decisions in the hospitality domain:
+- Revenue and occupancy trends across weeks
+- Performance comparison by city and room type
+- Revenue contribution by category (Luxury vs Business)
+- Platform-wise booking performance
+- Property-level performance analysis 
 
 **Tools Used:** Power BI, Power Query, DAX  
 
-📂 Folder: Data-Professional-Survey-Dashboard
+📂 Folder: hospitality-revenue-analytics-dashboard
 
 ### Dashboard Preview
-![Dashboard Preview](data-professional-survey-dashboard/dashboard.png)
+![Dashboard Preview](Hospitality-Revenue-Analytics-Dashboard.png)
 
 
 ### 2️⃣ HR Analytics Dashboard
@@ -36,6 +37,21 @@ HR performance and employee attrition analysis focusing on:
 
 ### Dashboard Preview
 ![HR Analytics Dashboard](HR-Analytics-Dashboard/hr_dashboard.png)
+
+### 3️⃣ Data Professional Survey Dashboard
+
+Analyzes global survey data of data professionals with insights on:
+
+- Salary trends by job role  
+- Programming language popularity  
+- Work-life balance & job satisfaction  
+
+**Tools Used:** Power BI, Power Query, DAX  
+
+📂 Folder: Data-Professional-Survey-Dashboard
+
+### Dashboard Preview
+![Dashboard Preview](data-professional-survey-dashboard/dashboard.png)
 
 ## 🛠 Tools & Skills Used
 
