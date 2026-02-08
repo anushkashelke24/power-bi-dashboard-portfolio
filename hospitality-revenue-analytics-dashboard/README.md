@@ -32,7 +32,7 @@ Interactive Power BI dashboard analyzing hotel performance and revenue metrics t
 ---
 
 ## Dashboard Preview
-![Hospitality Revenue Dashboard](hospitality_dashboard.png)
+![Hospitality_Revenue_Dashboard](hospitality_dashboard.png)
 
 ---
 
