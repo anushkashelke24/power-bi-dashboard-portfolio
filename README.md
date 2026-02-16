@@ -22,7 +22,18 @@ Interactive Power BI dashboard analyzing hotel performance and revenue metrics t
 ![Dashboard Preview](hospitality-revenue-analytics-dashboard/Hospitality_Revenue_Dashboard.png)
 
 
-### 2️⃣ HR Analytics Dashboard
+### 2️⃣ E-Commerce Revenue & Risk Intelligence Dashboard
+
+A multi-page executive BI dashboard analyzing 100K+ orders (2023–2026) to monitor revenue growth, return risk, customer value, and demand trends.
+
+**Tools Used:** Power BI, DAX, Time Intelligence  
+
+📂 Folder: Ecommerce-Revenue-Risk-Intelligence
+### Dashboard Preview
+![Executive Overview](Ecommerce-Revenue-Risk-Intelligence/executive_overview.png)
+
+
+### 3️⃣HR Analytics Dashboard
 
 HR performance and employee attrition analysis focusing on:
 
@@ -38,7 +49,7 @@ HR performance and employee attrition analysis focusing on:
 ### Dashboard Preview
 ![HR Analytics Dashboard](HR-Analytics-Dashboard/hr_dashboard.png)
 
-### 3️⃣ Data Professional Survey Dashboard
+### 4️⃣ Data Professional Survey Dashboard
 
 Analyzes global survey data of data professionals with insights on:
 
@@ -53,15 +64,6 @@ Analyzes global survey data of data professionals with insights on:
 ### Dashboard Preview
 ![Dashboard Preview](data-professional-survey-dashboard/dashboard.png)
 
-### 4️⃣ E-Commerce Revenue & Risk Intelligence Dashboard
-
-A multi-page executive BI dashboard analyzing 100K+ orders (2023–2026) to monitor revenue growth, return risk, customer value, and demand trends.
-
-**Tools Used:** Power BI, DAX, Time Intelligence  
-
-📂 Folder: Ecommerce-Revenue-Risk-Intelligence
-### Dashboard Preview
-![Executive Overview](Ecommerce-Revenue-Risk-Intelligence/executive_overview.png)
 
 
 ## 🛠 Tools & Skills Used
