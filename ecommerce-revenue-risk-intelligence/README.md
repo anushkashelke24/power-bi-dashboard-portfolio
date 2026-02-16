@@ -9,14 +9,14 @@ Designed an end-to-end E-commerce Revenue Intelligence System using SQL (data mo
 
 ## Dashboard Structure
 
-### Page 1 — Revenue Performance & Risk Analysis
+### Page 1 - Revenue Performance & Risk Analysis
 - KPI Overview (Revenue, Orders, Return Rate, Rating)
 - Actual vs Forecast Revenue Trend
 - Revenue by Region
 - Category Return Risk Analysis
 - Key Business Insights Panel
 
-### Page 2 — Customer & Category Intelligence
+### Page 2 - Customer & Category Intelligence
 - Top 10 Customers by Lifetime Value
 - Customer Value Segmentation
 - Revenue Contribution by Category (%)
