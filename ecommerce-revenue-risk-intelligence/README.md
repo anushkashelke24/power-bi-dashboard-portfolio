@@ -4,8 +4,8 @@
 A multi-page Business Intelligence dashboard built using a synthetic e-commerce dataset (2023–2026) to analyze revenue performance, return risk, customer segmentation, and category demand trends.
 
 This project simulates real-world executive reporting and operational analytics using Power BI.
+Designed an end-to-end E-commerce Revenue Intelligence System using SQL (data modeling), Python (EDA & validation), and Power BI (interactive BI reporting)
 
----
 
 ## Dashboard Structure
 
