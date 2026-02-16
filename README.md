@@ -30,7 +30,7 @@ A multi-page executive BI dashboard analyzing 100K+ orders (2023–2026) to moni
 
 📂 Folder: Ecommerce-Revenue-Risk-Intelligence
 ### Dashboard Preview
-![Executive Overview](Ecommerce-Revenue-Risk-Intelligence/executive_overview.png)
+![Executive Overview](ecommerce-revenue-risk-intelligence/executive_overview.png)
 
 
 ### 3️⃣HR Analytics Dashboard
